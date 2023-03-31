@@ -7,3 +7,6 @@
 *.tfstate.*
 
 *.pem
+
+### Ansible ###
+hosts.yml
